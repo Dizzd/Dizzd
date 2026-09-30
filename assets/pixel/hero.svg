@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" fill="#071522"/>
+<rect y="0" width="1200" height="8" fill="#20d7e5"/><rect y="352" width="1200" height="8" fill="#f0a14a"/>
+<g shape-rendering="crispEdges">
+<rect x="48" y="46" width="8" height="8" fill="#20d7e5"/><rect x="64" y="46" width="8" height="8" fill="#f0a14a"/><rect x="80" y="46" width="8" height="8" fill="#8a7cf5"/>
+<rect x="710" y="32" width="440" height="240" fill="#0a1d2c" stroke="#20d7e5" stroke-width="4"/>
+<rect x="732" y="164" width="52" height="108" fill="#102a40"/><rect x="794" y="126" width="58" height="146" fill="#17364f"/>
+<rect x="862" y="148" width="50" height="124" fill="#102a40"/><rect x="922" y="88" width="58" height="184" fill="#17364f"/>
+<rect x="990" y="134" width="48" height="138" fill="#102a40"/><rect x="1048" y="104" width="70" height="168" fill="#17364f"/>
+<g fill="#f0a14a"><rect x="748" y="184" width="8" height="8"/><rect x="814" y="146" width="8" height="8"/><rect x="942" y="110" width="8" height="8"/><rect x="1066" y="126" width="8" height="8"/></g>
+<g fill="#20d7e5"><rect x="760" y="220" width="8" height="8"/><rect x="834" y="198" width="8" height="8"/><rect x="1006" y="184" width="8" height="8"/><rect x="1088" y="190" width="8" height="8"/></g>
+<rect x="1084" y="54" width="24" height="40" fill="#ffe2a8"/><rect x="1076" y="62" width="40" height="24" fill="#ffe2a8"/>
+<rect x="660" y="272" width="514" height="18" fill="#76452c"/>
+<rect x="784" y="192" width="192" height="110" fill="#0b0f16" stroke="#607d9c" stroke-width="6"/>
+<rect x="802" y="210" width="156" height="74" fill="#071522"/>
+<rect x="818" y="226" width="70" height="6" fill="#20d7e5"/><rect x="818" y="244" width="118" height="6" fill="#8a7cf5"/><rect x="818" y="262" width="92" height="6" fill="#f0a14a"/>
+<rect x="972" y="240" width="124" height="70" fill="#24263a" stroke="#5e6683" stroke-width="4"/><rect x="1022" y="264" width="22" height="22" fill="#20d7e5"/>
+<rect x="718" y="250" width="42" height="48" fill="#e9eef3"/><rect x="760" y="260" width="14" height="24" fill="none" stroke="#e9eef3" stroke-width="6"/>
+</g>
+<text x="48" y="126" fill="#dbe9f4" font-family="monospace" font-size="30" font-weight="700">[ HELLO WORLD ]</text>
+<text x="48" y="188" fill="#20d7e5" font-family="monospace" font-size="62" font-weight="800">DIZZD</text>
+<text x="48" y="226" fill="#dbe9f4" font-family="monospace" font-size="19">Software Development • Cybersecurity • Automation</text>
+<text x="48" y="258" fill="#8fb3c8" font-family="monospace" font-size="17">Build useful systems. Automate repetitive work. Keep learning.</text>
+<text x="48" y="316" fill="#20d7e5" font-family="monospace" font-size="16">BUILD</text><text x="160" y="316" fill="#f0a14a" font-family="monospace" font-size="16">SECURE</text><text x="300" y="316" fill="#8a7cf5" font-family="monospace" font-size="16">AUTOMATE</text><rect x="418" y="304" width="12" height="18" fill="#20d7e5"/>
+</svg>
