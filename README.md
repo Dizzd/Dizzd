@@ -29,11 +29,9 @@ Developer focused on **software, automation, systems integration, RFID and secur
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## <img src="assets/pixel/icons/skill.svg" width="24" /> SKILL TREE
-
-`Security` SOC · SIEM/ELK · ISO 27001 · CEH  
-`DevOps` Docker · CI/CD · Linux · Automation  
-`AI` ChatGPT · Copilot · Prompting · Workflows
+<p align="center">
+  <img src="assets/pixel/skill-tree.svg" width="100%" alt="Pixel Skill Tree" />
+</p>
 
 <p align="center">
   <img src="assets/pixel/footer.svg" width="100%" alt="Pixel-art footer" />
