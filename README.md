@@ -2,10 +2,6 @@
   <img src="assets/pixel/hero.svg" width="100%" alt="Dizzd pixel-art developer banner" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dizzd&style=flat-square&color=20d7e5&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
 ## <img src="assets/pixel/icons/about.svg" width="24" /> ABOUT
 
 Developer focused on **software, automation, systems integration, RFID and security**.
